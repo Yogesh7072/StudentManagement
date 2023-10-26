@@ -1,2 +1,2 @@
 hello this is new file 
-its use to git
+its use to git     hhh
